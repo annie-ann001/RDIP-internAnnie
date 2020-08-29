@@ -1,6 +1,6 @@
                                                            Forking a Github Repository
                                                            
-                                        step 1: Log in to your Githib account
+                                        step 1: Log in to your Github account
                                         step 2: Find the GitHub repository with which you’d like to work.
                                         step 3: Click the Fork button on the upper right-hand side of the repository’s page.
                                           Now you have a copy of the original repository in your GitHub account.
