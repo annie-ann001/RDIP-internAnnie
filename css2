@@ -5,7 +5,11 @@
 body {
   background-image: url("paper.gif");
 }
+h1 {
+color :green;
+}
 </style>
+
 </head>
 <body>
 
