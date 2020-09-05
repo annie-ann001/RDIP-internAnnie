@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Date</h2>
+
+<script>
+var x = "05-09-2020"
+console.log(x);
+</script>
+
+</body>
+</html> 
+
