@@ -1,0 +1,7 @@
+function total(a,b,c){
+   return a + b + c;
+   }
+function Average(a,b,c) {
+   (return a + b + c)/3;
+   }
+
