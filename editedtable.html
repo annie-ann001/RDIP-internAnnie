@@ -62,6 +62,16 @@ table, th, td {
 
 <p>
 Hypertext Markup Language (HTML) is the standard markup language for creating and displaying pages on web.Each HTML page consists of a set of tags (also called elements), which we can refer to as the building blocks of web pages. They create a hierarchy that structures the content into sections, paragraphs, headings, and other content blocks.HTML5 is the latest version of HTML.
+<p id="test"></p>
+
+<script>
+function myFunction() {
+  var str = "Annie Ann Abraham";
+  var patt = /annie ann abraham/i;
+  var result = str.match(patt);
+  document.getElementById("test").innerHTML = result;
+}
+</script>
 
 </body>
 </html>
